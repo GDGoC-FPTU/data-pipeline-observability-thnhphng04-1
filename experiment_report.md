@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-XXXX
+**Student ID:** 2A202600312
 **Name:** Trần Thanh Phong
 **Date:** 15/04/2026
 
